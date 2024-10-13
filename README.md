@@ -1,4 +1,4 @@
 # demo
 first git repository
 <br>
-Author : Rithin Rajpoot
+Author : Parihar Rithin Rajpoot
